@@ -1,0 +1,10 @@
+
+public class A {
+	public void f1(int x)
+	{
+		System.out.println("class A");
+	}
+
+}
+
+
